@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CamperGlitch
 - 👀 I’m interested in coding in various languages.
-- 🌱 I’m currently learning C++, python and anything intressting i can find.
-- 💞️ I’m looking to collaborate on anything interesting!!!
+- 🌱 I’m currently learning C++, python, linux and anything i can find.
+- 💞️ I’m looking to collaborate on everything interesting!!!
 - 📫 This is how to reach me:
      (i)Email: chandreshverma200@gmail.com
      (ii)Insta: Just search for my username...  chandresh_2500
